@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsanders
 - 👀 I’m interested in bioinformatics !
 - 🌱 I’m currently learning advanced C++ and python for data science
-- 💞️ I’m looking to collaborate on ...
+<!-- 💞️ I’m looking to collaborate on ... ---->
 - 📫 How to reach me: email// abbysanders2@gmail.com
 
 <!---
