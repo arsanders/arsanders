@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @arsanders
-- 👀 I’m interested in bioinformatics !
-- 🌱 I’m currently learning advanced C++ and python for data science
-<!-- 💞️ I’m looking to collaborate on ... ---->
-- 📫 How to reach me: email// abbysanders2@gmail.com
-
-<!---
-arsanders/arsanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# H1 Hello! My name is Abigail Sanders
+## H2 About Me:
+I am a third-year undergraduate student at **UCLA** studying Human Biology and Society as well as Bioinformatics. I am interested in studying genetic markers, such as DNA methylation, as predictors of disease. Currently, I am learning to develop models and applications to analyze epigenetic predictors of health. 
